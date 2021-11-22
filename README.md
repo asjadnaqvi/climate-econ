@@ -1,9 +1,9 @@
 # Climate econ literature dump
 
-A dump of my climate econ bibliograph. Trying to find causality literature:
+A dump of my climate econ bibliograph. It will be cleaned up. On the hunt for causality literature. Check back l8r...
+
 
 ## Well-being and GDP
-
 
 *   Well-being and GDP: Explained (https://neweconomics.org/2020/10/wellbeing-and-gdp-explained)
 *   GDP Is Not a Measure of Human Well-Being (https://hbr.org/2019/10/gdp-is-not-a-measure-of-human-well-being)
@@ -49,5 +49,13 @@ A dump of my climate econ bibliograph. Trying to find causality literature:
 Bonus
 *   The science of sustainable supply chains (https://www.science.org/doi/abs/10.1126/science.1248526)
 *   The role of Big Data in explaining disaster resilience in supply chains for sustainability (https://www.sciencedirect.com/science/article/pii/S0959652616301275)
+
+
+## Unsorted causal inference papers:
+
+*   Introduction to Causal Inference in Environmental and Resource Economics: Challenges, Developments, and Applications (https://www.journals.uchicago.edu/doi/abs/10.1086/712586?journalCode=jaere)
+*   Hurricanes and Gasoline Price Gouging  (https://www.journals.uchicago.edu/doi/abs/10.1086/712419?journalCode=jaere)
+*   Decoupling trends of emissions across EU regions and the role of environmental policies (my own paper. should be essential reading...) (https://www.sciencedirect.com/science/article/pii/S0959652621033175) 
+*   Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use (https://www.journals.uchicago.edu/doi/10.1086/711025) 
 
 
