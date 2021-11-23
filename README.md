@@ -127,10 +127,21 @@ will climate change do? Recent estimates. World Economics 1(4): 179-206.
 
 ## Causal inference papers
 
+### Discussions
+
 *   Causal thinking and support for climate change policies: International survey findings (https://www.sciencedirect.com/science/article/pii/S0959378011001476)
 *   Introduction to Causal Inference in Environmental and Resource Economics: Challenges, Developments, and Applications (https://www.journals.uchicago.edu/doi/abs/10.1086/712586?journalCode=jaere)
+*    Chapter 9 - Causal inference in environmental conservation: The role of institutions (https://www.sciencedirect.com/science/article/pii/S157400991830010X)
+*    The identification of causal effects in environmental and
+energy economics (https://resources.environment.yale.edu/kotchen/pubs/intro.pdf)
+*    What Do We Learn from the Weather? The New Climate-Economy Literature (https://scholar.harvard.edu/files/dell/files/learnfromweather.pdf)
+
+### Empirical
+*   Temperature Shocks and Economic Growth: Evidence from the Last Half Century (https://www.aeaweb.org/articles?id=10.1257/mac.4.3.66)
 *   Hurricanes and Gasoline Price Gouging  (https://www.journals.uchicago.edu/doi/abs/10.1086/712419?journalCode=jaere)
+*   Environmental Economics Seminar: Machine Learning for Causal Inference: An Application to Air Quality Impacts on House Prices (https://www.epa.gov/environmental-economics/environmental-economics-seminar-machine-learning-causal-inference)
 *   Decoupling trends of emissions across EU regions and the role of environmental policies (my own paper. should be essential reading...) (https://www.sciencedirect.com/science/article/pii/S0959652621033175) 
+*   Machine Learning-Aided Causal Inference Framework for Environmental Data Analysis: A COVID-19 Case Study (https://pubs.acs.org/doi/10.1021/acs.est.1c02204)
 *   The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence From 6,700 Cyclones (https://www.nber.org/papers/w20352)
 *   Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use (https://www.journals.uchicago.edu/doi/10.1086/711025)
 *   Impact of Hurricane Maria on Beach Erosion in Puerto Rico: Remote Sensing and Causal Inference (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087306) 
