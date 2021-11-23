@@ -72,7 +72,7 @@ Bonus
 *   Shapiro, J. (2013). Trade, CO2, and the Environment.
 
 
-## Green investment
+## Central Banks & Green investment
 
 *   Climate change and the role of central banks (https://www.nationalbanken.dk/en/publications/Documents/2021/07/ANALYSIS_No.%2019_Climate%20change%20and%20the%20role%20of%20central%20banks.pdf)
 *   Central banks should not mandate 'green' investments: Raghuram Rajan (https://www.reuters.com/world/india/central-banks-should-not-mandate-green-investments-raghuram-rajan-2021-08-26/)
@@ -98,8 +98,11 @@ assessment of the uncertainties. Energy Policy 33: 2064-2074.
 will climate change do? Recent estimates. World Economics 1(4): 179-206.
 
 
-## EKC
+## EKC and Decoupling
 
+*  Decoupling for ecological sustainability: A categorisation and review of research literature (https://www.sciencedirect.com/science/article/pii/S1462901120304342)
+*  A systematic review of the evidence on decoupling of GDP, resource use and GHG emissions, part I: bibliometric and conceptual mapping (https://iopscience.iop.org/article/10.1088/1748-9326/ab8429)
+*  A systematic review of the evidence on decoupling of GDP, resource use and GHG emissions, part II: synthesizing the insights (https://iopscience.iop.org/article/10.1088/1748-9326/ab842a/meta)
 *  Holtz-Eakin, D. and T. Seldon (1995). Stoking the fires? CO2 emissions and economic growth. Journal of Public Economics 57(1):85-101. (mainly, 85-92).
 *   Carson, Richard T. (2010). The Environmental Kuznets Curve: Seeking Empirical Regularity and Theoretical Structure.” Review of Environmental Economics and Policy 4(1), pp 3-23.
 * Schmalensee, Richard, Thomas M. Stoker, and Ruth A. Judson (1998). World carbon dioxide emissions: 1950–2050. Review of Economics and Statistics 80(1): 15-27.
