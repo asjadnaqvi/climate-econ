@@ -36,8 +36,7 @@ Consequences of Energy Production and Use."
 
 *   Ten facts about the economics of climate change and climate policy (https://www.brookings.edu/research/ten-facts-about-the-economics-of-climate-change-and-climate-policy/)
 *   Reduced emissions through climate damage to the economy (https://www.pnas.org/content/116/3/714)
-*   https://www.sciencedirect.com/science/article/pii/S0959652621033175 
-*   https://www.sciencedirect.com/science/article/pii/S0921800914002833 
+*   Regional variation in environmental inequality: Industrial air toxics exposure in U.S. cities (https://www.sciencedirect.com/science/article/pii/S0921800914002833)
 
 
 ## Carbon tax
