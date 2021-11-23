@@ -1,6 +1,6 @@
 # Climate econ literature dump
 
-A dump of my climate econ bibliograph. It will be cleaned up. On the hunt for causality literature. Check back l8r...
+A dump of my climate econ bibliograph. It will be cleaned up. On the hunt for causality literature. 
 
 
 
