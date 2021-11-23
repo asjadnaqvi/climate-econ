@@ -107,6 +107,8 @@ will climate change do? Recent estimates. World Economics 1(4): 179-206.
 * Stern, David (2004). The rise and fall of the environmental Kuznets curve. World Development 32(8). pp 1419-1439.
 * Dinda, Soumyananda (2004). Environmental Kuznets Curve Hypothesis: A Survey. Ecological Economics 49. Pp 431-455.
 
+## Stranded assets
+
 
 ## Fat tails
 
@@ -124,12 +126,18 @@ will climate change do? Recent estimates. World Economics 1(4): 179-206.
 
 ## Causal inference papers
 
+*   Causal thinking and support for climate change policies: International survey findings (https://www.sciencedirect.com/science/article/pii/S0959378011001476)
 *   Introduction to Causal Inference in Environmental and Resource Economics: Challenges, Developments, and Applications (https://www.journals.uchicago.edu/doi/abs/10.1086/712586?journalCode=jaere)
 *   Hurricanes and Gasoline Price Gouging  (https://www.journals.uchicago.edu/doi/abs/10.1086/712419?journalCode=jaere)
 *   Decoupling trends of emissions across EU regions and the role of environmental policies (my own paper. should be essential reading...) (https://www.sciencedirect.com/science/article/pii/S0959652621033175) 
-*   Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use (https://www.journals.uchicago.edu/doi/10.1086/711025) 
-
-
-
+*   The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence From 6,700 Cyclones (https://www.nber.org/papers/w20352)
+*   Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use (https://www.journals.uchicago.edu/doi/10.1086/711025)
+*   Impact of Hurricane Maria on Beach Erosion in Puerto Rico: Remote Sensing and Causal Inference (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087306) 
+*    Chapter 20: Using micro data to examine causal effects of climate policy (https://www.elgaronline.com/view/edcoll/9780857933683/9780857933683.00030.xml)
+*   Quantifying the economic impact of disasters on businesses using human mobility data: a Bayesian causal inference approach (https://epjds.epj.org/articles/epjdata/abs/2020/01/13688_2020_Article_255/13688_2020_Article_255.html)
+*   Climate and Conflict (https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080614-115430)
+*   Is there a causal link between investment climate and growth? A review of the evidence (http://www.businessenvironment.org/dyn/be/docs/299/laser-evidence-paper-the-link-between-ic-reform-a.pdf)
+*    Climate variability, economic growth, and civil conflict (https://journals.sagepub.com/doi/full/10.1177/0022343311427173)
+*   Climate Change, Agriculture and Migration: Is there a Causal Relationship? (https://ageconsearch.umn.edu/record/277488/)
 
 
