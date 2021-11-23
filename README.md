@@ -108,7 +108,9 @@ will climate change do? Recent estimates. World Economics 1(4): 179-206.
 * Dinda, Soumyananda (2004). Environmental Kuznets Curve Hypothesis: A Survey. Ecological Economics 49. Pp 431-455.
 
 ## Stranded assets
-
+*   Stranded assets and stranded resources: Implications for climate change mitigation and global sustainable development (https://www.sciencedirect.com/science/article/pii/S2214629618305383)
+*   Stranded Assets: A Climate Risk Challenge (https://lpdd.org/wp-content/uploads/2020/03/Stranded-Assets-A-Climate-Risk-Challenge.pdf)
+*   Capital stranding cascades: The impact of decarbonisation on productive asset utilisation (https://ideas.repec.org/p/avg/wpaper/en12201.html)
 
 ## Fat tails
 
