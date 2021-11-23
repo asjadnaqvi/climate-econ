@@ -1,6 +1,6 @@
 # Climate econ literature dump
 
-A dump of my climate econ bibliograph. It will be cleaned up. On the hunt for causality literature. 
+A dump of my climate econ bibliography. It will be cleaned up. On the hunt for causality literature. 
 
 
 
@@ -151,5 +151,6 @@ energy economics (https://resources.environment.yale.edu/kotchen/pubs/intro.pdf)
 *   Is there a causal link between investment climate and growth? A review of the evidence (http://www.businessenvironment.org/dyn/be/docs/299/laser-evidence-paper-the-link-between-ic-reform-a.pdf)
 *    Climate variability, economic growth, and civil conflict (https://journals.sagepub.com/doi/full/10.1177/0022343311427173)
 *   Climate Change, Agriculture and Migration: Is there a Causal Relationship? (https://ageconsearch.umn.edu/record/277488/)
+*   Climate change impacts on crop productivity in Africa and South Asia (https://iopscience.iop.org/article/10.1088/1748-9326/7/3/034032/meta)
 
 
