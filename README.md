@@ -138,6 +138,7 @@ will climate change do? Recent estimates. World Economics 1(4): 179-206.
 *    The identification of causal effects in environmental and
 energy economics (https://resources.environment.yale.edu/kotchen/pubs/intro.pdf)
 *    What Do We Learn from the Weather? The New Climate-Economy Literature (https://scholar.harvard.edu/files/dell/files/learnfromweather.pdf)
+*    Climate Econometrics (https://www.annualreviews.org/doi/pdf/10.1146/annurev-resource-100815-095343)
 
 ### Empirical
 *   Temperature Shocks and Economic Growth: Evidence from the Last Half Century (https://www.aeaweb.org/articles?id=10.1257/mac.4.3.66)
@@ -166,4 +167,6 @@ energy economics (https://resources.environment.yale.edu/kotchen/pubs/intro.pdf)
 *   Should they stay or should they go? Climate migrants and local conflicts (https://academic.oup.com/joeg/article-abstract/21/4/619/5760331)
 *   The migration response to increasing temperatures (https://www.sciencedirect.com/science/article/pii/S0304387816300372)
 *   Asylum applications respond to temperature fluctuations (https://www.science.org/doi/10.1126/science.aao0432)
-
+*   Regional Crop Diversity and Weather Shocks in India (https://direct.mit.edu/adev/article/35/2/113/9946/Regional-Crop-Diversity-and-Weather-Shocks-in)
+*   Long-term impacts of exposure to high temperatures on human capital and economic productivity (https://www.sciencedirect.com/science/article/pii/S0095069618301098)
+*   Climate-Induced migration and unemployment in middle-income Africa (https://www.sciencedirect.com/science/article/pii/S0959378020307664?dgcid=author)
