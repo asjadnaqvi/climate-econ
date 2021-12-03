@@ -139,6 +139,7 @@ will climate change do? Recent estimates. World Economics 1(4): 179-206.
 energy economics (https://resources.environment.yale.edu/kotchen/pubs/intro.pdf)
 *    What Do We Learn from the Weather? The New Climate-Economy Literature (https://scholar.harvard.edu/files/dell/files/learnfromweather.pdf)
 *    Climate Econometrics (https://www.annualreviews.org/doi/pdf/10.1146/annurev-resource-100815-095343)
+*    Reproduction Materials for the Chapter: "The Empirical Analysis of Climate Change Impacts and Adaptation in Agriculture" (Handbook of Agricultural Economics) (https://archive.ciser.cornell.edu/reproduction-packages/2856)
 
 ### Empirical
 *   Temperature Shocks and Economic Growth: Evidence from the Last Half Century (https://www.aeaweb.org/articles?id=10.1257/mac.4.3.66)
