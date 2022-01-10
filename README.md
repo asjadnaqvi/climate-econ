@@ -171,3 +171,9 @@ energy economics (https://resources.environment.yale.edu/kotchen/pubs/intro.pdf)
 *   Regional Crop Diversity and Weather Shocks in India (https://direct.mit.edu/adev/article/35/2/113/9946/Regional-Crop-Diversity-and-Weather-Shocks-in)
 *   Long-term impacts of exposure to high temperatures on human capital and economic productivity (https://www.sciencedirect.com/science/article/pii/S0095069618301098)
 *   Climate-Induced migration and unemployment in middle-income Africa (https://www.sciencedirect.com/science/article/pii/S0959378020307664?dgcid=author)
+*   Marchetta, F., Sahn, D. E., & Tiberti, L. (2019). The role of weather on schooling and work of young adults in Madagascar. American Journal of Agricultural Economics, 101(4), 1203-1227.
+*   Randell, H., & Gray, C. (2019). Climate change and educational attainment in the global tropics. PNAS, 116(18), 8840–8845.
+*   Rosales-Rueda, M. (2018). The impact of early life shocks on human capital formation: Evidence from El Niño floods in Ecuador. Journal of Health Economics, 62, 13–44.
+*   Shah, M., & Steinberg, B. M. (2017). Drought of opportunities: Contemporaneous and long-term impacts of rainfall shocks on human capital. Journal of Political Economy, 125(2), 527–561.
+*   Park, R. J., Goodman, J., & Behrer, A. P. (2020). Learning is inhibited by heat exposure, both internationally and within the United States. Nature Human Behaviour, 1–9.
+*   Agamile, P., & Lawson, D. (2021). Rainfall shocks and children’s school attendance: Evidence from Uganda. Oxford Development Studies, 0(0), 1–19.
