@@ -47,7 +47,9 @@ Bank. Executive Summary.
 *   Nudging out support for a carbon tax (https://www.nature.com/articles/s41558-019-0474-0)
 *   The Impact of a Carbon Tax on Inequality (https://www.sciencedirect.com/science/article/pii/S092180091831084X)
 *   The effect of carbon tax on per capita CO2 emissions (https://www.sciencedirect.com/science/article/pii/S0301421511004502)
+ 
 Martin, R., de Preux, L. B., & Wagner, U. J. (2014). The impact of a carbon tax on manufacturing: Evidence from microdata. Journal of Public Economics, 117, 1–14. https://doi.org/10.1016/j.jpubeco.2014.04.016
+
 *   Tax Policy Issues in Designing a Carbon Tax (https://www.aeaweb.org/articles?id=10.1257/aer.104.5.563)
 
 
