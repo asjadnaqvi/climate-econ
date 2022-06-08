@@ -195,48 +195,90 @@ Guiteras, R. (2008). The Impact of Climate Change on Indian Agriculture.
 
 ### Discussions
 
-*   Causal thinking and support for climate change policies: International survey findings (https://www.sciencedirect.com/science/article/pii/S0959378011001476)
-*   Introduction to Causal Inference in Environmental and Resource Economics: Challenges, Developments, and Applications (https://www.journals.uchicago.edu/doi/abs/10.1086/712586?journalCode=jaere)
-*    Chapter 9 - Causal inference in environmental conservation: The role of institutions (https://www.sciencedirect.com/science/article/pii/S157400991830010X)
-*    The identification of causal effects in environmental and
-energy economics (https://resources.environment.yale.edu/kotchen/pubs/intro.pdf)
-*    What Do We Learn from the Weather? The New Climate-Economy Literature (https://scholar.harvard.edu/files/dell/files/learnfromweather.pdf)
-*    Climate Econometrics (https://www.annualreviews.org/doi/pdf/10.1146/annurev-resource-100815-095343)
-*    Reproduction Materials for the Chapter: "The Empirical Analysis of Climate Change Impacts and Adaptation in Agriculture" (Handbook of Agricultural Economics) (https://archive.ciser.cornell.edu/reproduction-packages/2856)
+Bostrom, A., O’Connor, R. E., Böhm, G., Hanss, D., Bodi, O., Ekström, F., Halder, P., Jeschke, S., Mack, B., Qu, M., Rosentrater, L., Sandve, A., & Sælensminde, I. (2012). Causal thinking and support for climate change policies: International survey findings. Global Environmental Change, 22(1), 210–222. https://doi.org/10.1016/j.gloenvcha.2011.09.012
+
+Dell, M., Jones, B. F., & Olken, B. A. (2014). What Do We Learn from the Weather? The New Climate-Economy Literature. Journal of Economic Literature, 52(3), 740–798. https://doi.org/10.1257/jel.52.3.740
+
+Evans, M. F., Kotchen, M. J., & Vossler, C. A. (2014). The identification of causal effects in environmental and energy economics. Journal of Economic Behavior & Organization, 107, 173–175. https://doi.org/10.1016/j.jebo.2014.05.001
+
+Hsiang, S. (2016). Climate Econometrics. Annual Review of Resource Economics, 8(1), 43–75. https://doi.org/10.1146/annurev-resource-100815-095343
+
+Millimet, D. L., & Alix-Garcia, J. (2021). Introduction to Causal Inference in Environmental and Resource Economics: Challenges, Developments, and Applications. Journal of the Association of Environmental and Resource Economists, 8(2), 193–198. https://doi.org/10.1086/712586
+
+Ortiz-Bobea, Ariel. (2021). Reproduction Materials for the Chapter: “The Empirical Analysis of Climate Change Impacts and Adaptation in Agriculture” (Handbook of Agricultural Economics) (Vol. 2).
+
+Sills, E. O., & Jones, K. (2018). Handbook of Environmental Economics. Chapter 9 - Causal inference in environmental conservation: The role of institutions (Vol. 4). (https://www.sciencedirect.com/science/article/pii/S157400991830010X)
+
+
 
 ### Empirical
-*   Temperature Shocks and Economic Growth: Evidence from the Last Half Century (https://www.aeaweb.org/articles?id=10.1257/mac.4.3.66)
-*   Hurricanes and Gasoline Price Gouging  (https://www.journals.uchicago.edu/doi/abs/10.1086/712419?journalCode=jaere)
-*   Environmental Economics Seminar: Machine Learning for Causal Inference: An Application to Air Quality Impacts on House Prices (https://www.epa.gov/environmental-economics/environmental-economics-seminar-machine-learning-causal-inference)
-*   Decoupling trends of emissions across EU regions and the role of environmental policies (my own paper. should be essential reading...) (https://www.sciencedirect.com/science/article/pii/S0959652621033175) 
-*   Machine Learning-Aided Causal Inference Framework for Environmental Data Analysis: A COVID-19 Case Study (https://pubs.acs.org/doi/10.1021/acs.est.1c02204)
-*   The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence From 6,700 Cyclones (https://www.nber.org/papers/w20352)
-*   Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use (https://www.journals.uchicago.edu/doi/10.1086/711025)
-*   Impact of Hurricane Maria on Beach Erosion in Puerto Rico: Remote Sensing and Causal Inference (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087306) 
-*    Chapter 20: Using micro data to examine causal effects of climate policy (https://www.elgaronline.com/view/edcoll/9780857933683/9780857933683.00030.xml)
-*   Human Capital Accumulation and Disasters: Evidence from the Pakistan Earthquake of 2005 (http://jhr.uwpress.org/content/early/2021/06/02/jhr.59.2.0520-10887R1.full.pdf+html)
-*   In Aid We Trust: Hearts and Minds and the Pakistan Earthquake of 2005 (https://direct.mit.edu/rest/article-abstract/99/3/371/58451/In-Aid-We-Trust-Hearts-and-Minds-and-the-Pakistan)
-*   Learn from the Past, Prepare for the Future: Impacts of Education and Experience on Disaster Preparedness in the Philippines and Thailand (https://www.sciencedirect.com/science/article/pii/S0305750X15312559)
-*   A meta-analysis of country-level studies on environmental change and migration (https://www.nature.com/articles/s41558-020-0898-6)
-*   Quantifying the economic impact of disasters on businesses using human mobility data: a Bayesian causal inference approach (https://epjds.epj.org/articles/epjdata/abs/2020/01/13688_2020_Article_255/13688_2020_Article_255.html)
-*   Climate and Conflict (https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080614-115430)
-*   Is there a causal link between investment climate and growth? A review of the evidence (http://www.businessenvironment.org/dyn/be/docs/299/laser-evidence-paper-the-link-between-ic-reform-a.pdf)
-*   Climate variability, economic growth, and civil conflict (https://journals.sagepub.com/doi/full/10.1177/0022343311427173)
-*   Climate Change, Agriculture and Migration: Is there a Causal Relationship? (https://ageconsearch.umn.edu/record/277488/)
-*   Climate change impacts on crop productivity in Africa and South Asia (https://iopscience.iop.org/article/10.1088/1748-9326/7/3/034032/meta)
-*   Cicadian Rhythm: Insecticides, Infant Health, and Long-term Outcomes (https://drive.google.com/file/d/10NPw_f4FeE9rUJZleaUngfnJIkYEV866/view)
-*   Climate Change, International Migration, and Interstate Conflict (https://www.cream-migration.org/publ_uploads/CDP_09_21.pdf)
-*   The Effects of Dust Storms on Economic Development (http://timforeman.net/duststorms.pdf)
-*   Does harmful climate increase or decrease migration? Evidence from Rural Households in Nigeria (https://www.worldscientific.com/doi/pdf/10.1142/S2010007819500131)
-*   Should they stay or should they go? Climate migrants and local conflicts (https://academic.oup.com/joeg/article-abstract/21/4/619/5760331)
-*   The migration response to increasing temperatures (https://www.sciencedirect.com/science/article/pii/S0304387816300372)
-*   Asylum applications respond to temperature fluctuations (https://www.science.org/doi/10.1126/science.aao0432)
-*   Regional Crop Diversity and Weather Shocks in India (https://direct.mit.edu/adev/article/35/2/113/9946/Regional-Crop-Diversity-and-Weather-Shocks-in)
-*   Long-term impacts of exposure to high temperatures on human capital and economic productivity (https://www.sciencedirect.com/science/article/pii/S0095069618301098)
-*   Climate-Induced migration and unemployment in middle-income Africa (https://www.sciencedirect.com/science/article/pii/S0959378020307664?dgcid=author)
-*   Marchetta, F., Sahn, D. E., & Tiberti, L. (2019). The role of weather on schooling and work of young adults in Madagascar. American Journal of Agricultural Economics, 101(4), 1203-1227.
-*   Randell, H., & Gray, C. (2019). Climate change and educational attainment in the global tropics. PNAS, 116(18), 8840–8845.
-*   Rosales-Rueda, M. (2018). The impact of early life shocks on human capital formation: Evidence from El Niño floods in Ecuador. Journal of Health Economics, 62, 13–44.
-*   Shah, M., & Steinberg, B. M. (2017). Drought of opportunities: Contemporaneous and long-term impacts of rainfall shocks on human capital. Journal of Political Economy, 125(2), 527–561.
-*   Park, R. J., Goodman, J., & Behrer, A. P. (2020). Learning is inhibited by heat exposure, both internationally and within the United States. Nature Human Behaviour, 1–9.
-*   Agamile, P., & Lawson, D. (2021). Rainfall shocks and children’s school attendance: Evidence from Uganda. Oxford Development Studies, 0(0), 1–19.
+
+Agamile, P., & Lawson, D. (2021). Rainfall shocks and children’s school attendance: evidence from Uganda. Oxford Development Studies, 49(3), 291–309. https://doi.org/10.1080/13600818.2021.1895979
+
+Andrabi, T., Daniels, B., & Das, J. (2021). Human Capital Accumulation and Disasters: Evidence from the Pakistan Earthquake of 2005. Journal of Human Resources, 0520-10887R1. https://doi.org/10.3368/jhr.59.2.0520-10887R1
+
+Andrabi, T., & Das, J. (2017). In Aid We Trust: Hearts and Minds and the Pakistan Earthquake of 2005. The Review of Economics and Statistics, 99(3), 371–386. https://doi.org/10.1162/REST_a_00638
+
+Auffhammer, M., & Carleton, T. A. (2018). Regional Crop Diversity and Weather Shocks in India. Asian Development Review, 35(2), 113–130. https://doi.org/10.1162/adev_a_00116
+
+Beatty, T. K. M., Lade, G. E., & Shimshack, J. (2021). Hurricanes and Gasoline Price Gouging. Journal of the Association of Environmental and Resource Economists, 8(2), 347–374. https://doi.org/10.1086/712419
+
+Bosetti, V., Cattaneo, C., & Peri, G. (2021). Should they stay or should they go? Climate migrants and local conflicts. Journal of Economic Geography, 21(4), 619–651. https://doi.org/10.1093/jeg/lbaa002
+
+Burke, M., Hsiang, S. M., & Miguel, E. (2015). Climate and Conflict. Annual Review of Economics, 7(1), 577–617. https://doi.org/10.1146/annurev-economics-080614-115430
+
+Cattaneo, C., & Massetti, E. (2019). DOES HARMFUL CLIMATE INCREASE OR DECREASE MIGRATION? EVIDENCE FROM RURAL HOUSEHOLDS IN NIGERIA. Climate Change Economics, 10(04), 1950013. https://doi.org/10.1142/S2010007819500131
+
+Cattaneo, C., & Peri, G. (2016). The migration response to increasing temperatures. Journal of Development Economics, 122, 127–146. https://doi.org/10.1016/j.jdeveco.2016.05.004
+
+Cattaneo, C., & Foreman, T. (2021). Climate Change, International Migration, and Interstate Conflict. (https://www.cream-migration.org/publ_uploads/CDP_09_21.pdf)
+
+Dell, M., Jones, B. F., & Olken, B. A. (2012). Temperature Shocks and Economic Growth: Evidence from the Last Half Century. American Economic Journal: Macroeconomics, 4(3), 66–95. https://doi.org/10.1257/mac.4.3.66
+
+Fishman, R., Carrillo, P., & Russ, J. (2019). Long-term impacts of exposure to high temperatures on human capital and economic productivity. Journal of Environmental Economics and Management, 93, 221–238. https://doi.org/10.1016/j.jeem.2018.10.001
+
+Foreman, T. (2020). The Effects of Dust Storms on Economic Development.
+
+Gennaioli, C., Martin, R., & Muûls, M. (2013). Chapter 20: Using micro data to examine causal effects of climate policy . In R. Fouquet (Ed.), Handbook on Energy and Climate Change (pp. 453–470).
+
+Ho, J. (2016). Machine Learning for Causal Inference: An Application to Air Quality Impacts on House Prices∗. University of Washington.
+
+Hoffmann, R., & Muttarak, R. (2017). Learn from the Past, Prepare for the Future: Impacts of Education and Experience on Disaster Preparedness in the Philippines and Thailand. World Development, 96, 32–51. https://doi.org/10.1016/j.worlddev.2017.02.016
+
+Hoffmann, R., Dimitrova, A., Muttarak, R., Crespo Cuaresma, J., & Peisker, J. (2020). A meta-analysis of country-level studies on environmental change and migration. Nature Climate Change, 10(10), 904–912. https://doi.org/10.1038/s41558-020-0898-6
+
+Hsiang, S., & Jina, A. (2014). The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence From 6,700 Cyclones. https://doi.org/10.3386/w20352
+
+Jessoe, K., Lade, G. E., Loge, F., & Spang, E. (2021). Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use. Journal of the Association of Environmental and Resource Economists, 8(2), 315–346. https://doi.org/10.1086/711025
+
+Kang, Q., Song, X., Xin, X., Chen, B., Chen, Y., Ye, X., & Zhang, B. (2021). Machine Learning-Aided Causal Inference Framework for Environmental Data Analysis: A COVID-19 Case Study. Environmental Science & Technology, acs.est.1c02204. https://doi.org/10.1021/acs.est.1c02204
+
+Knox, J., Hess, T., Daccache, A., & Wheeler, T. (2012). Climate change impacts on crop productivity in Africa and South Asia. In Environmental Research Letters (Vol. 7). IOP Publishing Ltd.
+
+Koubi, V., Bernauer, T., Kalbhenn, A., & Spilker, G. (2012). Climate variability, economic growth, and civil conflict. Journal of Peace Research, 49(1), 113–127. https://doi.org/10.1177/0022343311427173
+
+Manuel, C. (2015). Is there a causal link between investment climate and growth? A review of the evidence.
+
+Marchetta, F., Sahn, D. E., & Tiberti, L. (2019). The Role of Weather on Schooling and Work of Young Adults in Madagascar. American Journal of Agricultural Economics, 101(4), 1203–1227. https://doi.org/10.1093/ajae/aaz015
+
+Missirian, A., & Schlenker, W. (2017). Asylum applications respond to temperature fluctuations. Science, 358(6370), 1610–1614. https://doi.org/10.1126/science.aao0432
+
+Mueller, V., Gray, C., & Hopping, D. (2020). Climate-Induced migration and unemployment in middle-income Africa. Global Environmental Change, 65, 102183. https://doi.org/10.1016/j.gloenvcha.2020.102183
+
+Naqvi, A. (2021). Decoupling trends of emissions across EU regions and the role of environmental policies. Journal of Cleaner Production, 323, 129130. https://doi.org/10.1016/j.jclepro.2021.129130
+
+Olper, A., Galeotti, M., & Falco, C. (2018). Climate Change, Agriculture and Migration: Is there a Causal Relationship ? International Association of Agricultural Economists (IAAE).
+
+Park, R. J., Behrer, A. P., & Goodman, J. (2021). Learning is inhibited by heat exposure, both internationally and within the United States. Nature Human Behaviour, 5(1), 19–27. https://doi.org/10.1038/s41562-020-00959-9
+
+Pérez Valentín, J. M., & Müller, M. F. (2020). Impact of Hurricane Maria on Beach Erosion in Puerto Rico: Remote Sensing and Causal Inference. Geophysical Research Letters, 47(6). https://doi.org/10.1029/2020GL087306
+
+Randell, H., & Gray, C. (2019). Climate change and educational attainment in the global tropics. Proceedings of the National Academy of Sciences, 116(18), 8840–8845. https://doi.org/10.1073/pnas.1817480116
+
+Rosales-Rueda, M. (2018). The impact of early life shocks on human capital formation: evidence from El Niño floods in Ecuador. Journal of Health Economics, 62, 13–44. https://doi.org/10.1016/j.jhealeco.2018.07.003
+
+Shah, M., & Steinberg, B. M. (2017). Drought of Opportunities: Contemporaneous and Long-Term Impacts of Rainfall Shocks on Human Capital. Journal of Political Economy, 125(2), 527–561. https://doi.org/10.1086/690828
+
+Taylor, C. A. (2022). Cicadian Rhythm: Insecticides, Infant Health, and  Long-term Outcomes∗.
+
+Yabe, T., Zhang, Y., & Ukkusuri, S. v. (2020). Quantifying the economic impact of disasters on businesses using human mobility data: a Bayesian causal inference approach. EPJ Data Science, 9(1), 36. https://doi.org/10.1140/epjds/s13688-020-00255-6
