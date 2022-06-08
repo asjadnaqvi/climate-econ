@@ -6,9 +6,10 @@ A dump of my climate econ bibliography. It will be cleaned up. On the hunt for c
 
 ## Externalities
 
-*   The Problem of the Commons: Still Unsettled after 100 Years. AER 2011.
-*   National Research Council (2010). "Hidden Costs of Energy: Unpriced
-Consequences of Energy Production and Use."
+Stavins, R. N. (2011). The Problem of the Commons: Still Unsettled after 100 Years. American Economic Review, 101(1), 81–108. https://doi.org/10.1257/aer.101.1.81
+
+National Research Council. (2010). Hidden Costs of Energy. National Academies Press. https://doi.org/10.17226/12794
+
 
 
 ## Discounting & Uncertainity
