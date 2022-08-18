@@ -59,6 +59,8 @@ Accordino, M. H., & Rajagopal, D. (2015). When a National Cap-and-Trade Policy w
 
 Aichele, R., & Felbermayr, G. (2012). Kyoto and the carbon footprint of nations. Journal of Environmental Economics and Management, 63(3), 336–354. https://doi.org/10.1016/j.jeem.2011.10.005
 
+Aklin, M., & Mildenberger, M. (2020). Prisoners of the Wrong Dilemma: Why Distributive Conflict, Not Collective Action, Characterizes the Politics of Climate Change. Global Environmental Politics, 20(4), 4–27. https://doi.org/10.1162/glep_a_00578
+
 Albrizio, S., Kozluk, T., & Zipperer, V. (2017). Environmental policies and productivity growth: Evidence across industries and firms. Journal of Environmental Economics and Management, 81, 209–226. https://doi.org/10.1016/j.jeem.2016.06.002
 
 Aldy, J. E., Krupnick, A. J., Newell, R. G., Parry, I. W. H., & Pizer, W. A. (2010). Designing Climate Mitigation Policy. Journal of Economic Literature, 48(4), 903–934. https://doi.org/10.1257/jel.48.4.903
@@ -79,6 +81,8 @@ Bernardo, V., Fageda, X., & Flores-Fillol, R. (2021). Pollution and congestion i
 
 Bohringer, C. (2002). Climate Politics from Kyoto to Bonn: From Little to Nothing? The Energy Journal, 23(2). https://doi.org/10.5547/ISSN0195-6574-EJ-Vol23-No2-2
 
+Breetz, H., Mildenberger, M., & Stokes, L. (2018). The political logics of clean energy transitions. Business and Politics, 20(4), 492–522. https://doi.org/10.1017/bap.2018.14
+
 Cao, S., Zhong, B., Yue, H., Zeng, H., & Zeng, J. (2009). Development and testing of a sustainable environmental restoration policy on eradicating the poverty trap in China’s Changting County. Proceedings of the National Academy of Sciences, 106(26), 10712–10716. https://doi.org/10.1073/pnas.0900197106
 
 Charpentier, A., & le Maux, B. (2014). Natural catastrophe insurance: How should the government intervene? Journal of Public Economics, 115, 1–17. https://doi.org/10.1016/j.jpubeco.2014.03.004
@@ -87,11 +91,15 @@ Claudet, J., Bopp, L., Cheung, W. W. L., Devillers, R., Escobar-Briones, E., Hau
 
 Coady, D., Parry, I., Sears, L., & Shang, B. (2017). How Large Are Global Fossil Fuel Subsidies? World Development, 91, 11–27. https://doi.org/10.1016/j.worlddev.2016.10.004
 
+Colgan, J. D., Green, J. F., & Hale, T. N. (2021). Asset Revaluation and the Existential Politics of Climate Change. International Organization, 75(2), 586–610. https://doi.org/10.1017/S0020818320000296
+
 Currie, J., & Walker, R. (2019). What Do Economists Have to Say about the Clean Air Act 50 Years after the Establishment of the Environmental Protection Agency? Journal of Economic Perspectives, 33(4), 3–26. https://doi.org/10.1257/jep.33.4.3
 
 de Area Leão Pereira, E. J., Silveira Ferreira, P. J., de Santana Ribeiro, L. C., Sabadini Carvalho, T., & de Barros Pereira, H. B. (2019). Policy in Brazil (2016–2019) threaten conservation of the Amazon rainforest. Environmental Science & Policy, 100, 8–12. https://doi.org/10.1016/j.envsci.2019.06.001
 
 Dechezleprêtre, A., & Sato, M. (2017). The Impacts of Environmental Regulations on Competitiveness. Review of Environmental Economics and Policy, 11(2), 183–206. https://doi.org/10.1093/reep/rex013
+
+Dechezleprêtre, A., Fabre, A., Kruse, T., Planterose, B., Chico, A. S., & Stantcheva, S. (2022). Fighting Climate Change: International Attitudes Toward Climate Policies *.
 
 Dietz, S., & Venmans, F. (2019). Cumulative carbon emissions and economic policy: In search of general principles. Journal of Environmental Economics and Management, 96, 108–129. https://doi.org/10.1016/j.jeem.2019.04.003
 
@@ -103,17 +111,25 @@ Fischer, C., & Newell, R. G. (2008). Environmental and technology policies for c
 
 Fischer, C., Parry, I. W. H., & Pizer, W. A. (2003). Instrument choice for environmental protection when technological innovation is endogenous. Journal of Environmental Economics and Management, 45(3), 523–545. https://doi.org/10.1016/S0095-0696(03)00002-0
 
+Frank, S., Chegwidden, O. (2022). Why climate data matters to climate-related financial risk assessments.
+
 Gans, J. S. (2012). Innovation and Climate Change Policy. American Economic Journal: Economic Policy, 4(4), 125–145. https://doi.org/10.1257/pol.4.4.125
+
+Goulder, L. H., & Parry, I. W. H. (2008). Instrument Choice in Environmental Policy. Review of Environmental Economics and Policy, 2(2), 152–174. https://doi.org/10.1093/reep/ren005
 
 Goulder, L. H., & Stavins, R. N. (2011). Challenges from State-Federal Interactions in US Climate Change Policy. American Economic Review, 101(3), 253–257. https://doi.org/10.1257/aer.101.3.253
 
-Goulder, L. H., & Parry, I. W. H. (2008). Instrument Choice in Environmental Policy. Review of Environmental Economics and Policy, 2(2), 152–174. https://doi.org/10.1093/reep/ren005
+Green, J. F. (2021). Does carbon pricing reduce emissions? A review of ex-post analyses. Environmental Research Letters, 16(4), 043004. https://doi.org/10.1088/1748-9326/abdae9
+
+Greve, H., & Lay, J. (2022). “Stepping down the ladder”: The impacts of fossil fuel subsidy removal in a developing country. Journal of the Association of Environmental and Resource Economists. https://doi.org/10.1086/721375
 
 Haan, P., & Simmler, M. (2018). Wind electricity subsidies — A windfall for landowners? Evidence from a feed-in tariff in Germany. Journal of Public Economics, 159, 16–32. https://doi.org/10.1016/j.jpubeco.2018.01.011
 
 He, G., Wang, S., & Zhang, B. (2020). Watering Down Environmental Regulation in China*. The Quarterly Journal of Economics, 135(4), 2135–2185. https://doi.org/10.1093/qje/qjaa024
 
 Jaffe, A. B., Newell, R. G., & Stavins, R. N. (2002). Environmental Policy and Technological Change. Environmental and Resource Economics, 22(1/2), 41–70. https://doi.org/10.1023/A:1015519401088
+
+Jenkins, J. D. (2014). Political economy constraints on carbon pricing policies: What are the implications for economic efficiency, environmental efficacy, and climate policy design? Energy Policy, 69, 467–477. https://doi.org/10.1016/j.enpol.2014.02.003
 
 Johnstone, N., Haščič, I., & Popp, D. (2010). Renewable Energy Policies and Technological Innovation: Evidence Based on Patent Counts. Environmental and Resource Economics, 45(1), 133–155. https://doi.org/10.1007/s10640-009-9309-1
 
@@ -135,6 +151,8 @@ Liu, J., Li, S., Ouyang, Z., Tam, C., & Chen, X. (2008). Ecological and socioeco
 
 Mastini, R., Kallis, G., & Hickel, J. (2021). A Green New Deal without growth? Ecological Economics, 179, 106832. https://doi.org/10.1016/j.ecolecon.2020.106832
 
+Meckling, J., Kelsey, N., Biber, E., & Zysman, J. (2015). Winning coalitions for climate policy. Science, 349(6253), 1170–1171. https://doi.org/10.1126/science.aab1336
+
 Miola, A., & Schiltz, F. (2019). Measuring sustainable development goals performance: How to monitor policy action in the 2030 Agenda implementation? Ecological Economics, 164, 106373. https://doi.org/10.1016/j.ecolecon.2019.106373
 
 Moyer, J. D., & Hedden, S. (2020). Are we on the right path to achieve the sustainable development goals? World Development, 127, 104749. https://doi.org/10.1016/j.worlddev.2019.104749
@@ -148,6 +166,10 @@ Overland, I., Sagbakken, H. F., Chan, H.-Y., Merdekawati, M., Suryadi, B., Utama
 Parnell, S. (2016). Defining a Global Urban Development Agenda. World Development, 78, 529–540. https://doi.org/10.1016/j.worlddev.2015.10.028
 
 Perdana, S., & Tyers, R. (2020). Global Climate Change Mitigation: Strategic Incentives. The Energy Journal, 41(3). https://doi.org/10.5547/01956574.41.3.sper
+
+Prasad, A., Loukoianova, E., Feng, A. X., & Oman, W. (2022). CLIMATE CLIMATE Mobilizing Private Climate Financing in Emerging Market and Developing Economies.
+
+Rodrik, D. (2014). Green industrial policy. Oxford Review of Economic Policy, 30(3), 469–491. https://doi.org/10.1093/oxrep/gru025
 
 Rose, A., & Oladosu, G. (2002). Greenhouse Gas Reduction Policy in the United States: Identifying Winners and Losers in an Expanded Permit Trading System. The Energy Journal, 23(1). https://doi.org/10.5547/ISSN0195-6574-EJ-Vol23-No1-1
 
@@ -405,6 +427,8 @@ Kates, R. W., Travis, W. R., & Wilbanks, T. J. (2012). Transformational adaptati
 
 Kim, Y.-H., Min, S.-K., Zhang, X., Sillmann, J., & Sandstad, M. (2020). Evaluation of the CMIP6 multi-model ensemble for climate extreme indices. Weather and Climate Extremes, 29, 100269. https://doi.org/10.1016/j.wace.2020.100269
 
+Krusell, P., & Smith, A. (2022). Climate Change Around the World. https://doi.org/10.3386/w30338
+
 Lenton, T. M. (2011). Early warning of climate tipping points. Nature Climate Change, 1(4), 201–209. https://doi.org/10.1038/nclimate1143
 
 Nordhaus, W. (2019). Climate Change: The Ultimate Challenge for Economics. American Economic Review, 109(6), 1991–2014. https://doi.org/10.1257/aer.109.6.1991
@@ -444,6 +468,8 @@ Walther, G.-R., Post, E., Convey, P., Menzel, A., Parmesan, C., Beebee, T. J. C.
 Anttila-Hughes, J. K., & Hsiang, S. M. (2013). Destruction, Disinvestment, and Death: Economic and Human Losses Following Environmental Disaster. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2220501
 
 Auffhammer, M., Hsiang, S. M., Schlenker, W., & Sobel, A. (2013). Using Weather Data and Climate Model Output in Economic Analyses of Climate Change. Review of Environmental Economics and Policy, 7(2), 181–198. https://doi.org/10.1093/reep/ret016
+
+Auh, J. K., Choi, J., Deryugina, T., & Park, T. (2022). Natural Disasters and Municipal Bonds. https://doi.org/10.3386/w30280
 
 Bai, Y., & Kung, J. K. (2011). Climate Shocks and Sino-nomadic Conflict. Review of Economics and Statistics, 93(3), 970–981. https://doi.org/10.1162/REST_a_00106
 
@@ -675,6 +701,8 @@ Sun, H., Edziah, B. K., Sun, C., & Kporsu, A. K. (2019). Institutional quality, 
 
 Uddin, K., Dubarry, M., & Glick, M. B. (2018). The viability of vehicle-to-grid operations from a battery technology and policy perspective. Energy Policy, 113, 342–347. https://doi.org/10.1016/j.enpol.2017.11.015
 
+van Benthem, A. A., Crooks, E., Giglio, S., Schwob, E., & Stroebel, J. (2022). The effect of climate risks on the interactions between financial markets and energy companies. Nature Energy. https://doi.org/10.1038/s41560-022-01070-1
+
 van den Bergh, J. C. J. M. (2011). Energy Conservation More Effective With Rebound Policy. Environmental and Resource Economics, 48(1), 43–58. https://doi.org/10.1007/s10640-010-9396-z
 
 Xu, X., Wei, Z., Ji, Q., Wang, C., & Gao, G. (2019). Global renewable energy development: Influencing factors, trend predictions and countermeasures. Resources Policy, 63, 101470. https://doi.org/10.1016/j.resourpol.2019.101470
@@ -750,6 +778,8 @@ Almansa, C., & Martínez-Paz, J. M. (2011). What weight should be assigned to fu
 Arrow, K., Cropper, M., Gollier, C., Groom, B., Heal, G., Newell, R., Nordhaus, W., Pindyck, R., Pizer, W., Portney, P., Sterner, T., Tol, R. S. J., & Weitzman, M. (2013). Determining Benefits and Costs for Future Generations. Science, 341(6144), 349–350. https://doi.org/10.1126/science.1235665
 
 Arrow, K. J., Cropper, M. L., Gollier, C., Groom, B., Heal, G. M., Newell, R. G., Nordhaus, W. D., Pindyck, R. S., Pizer, W. A., Portney, P. R., Sterner, T., Tol, R. S. J., & Weitzman, M. L. (2014). Should Governments Use a Declining Discount Rate in Project Analysis? Review of Environmental Economics and Policy, 8(2), 145–163. https://doi.org/10.1093/reep/reu008
+
+Campiglio, E., Daumas, L., Monnin, P., & von Jagow, A. (2022). Climate‐related risks in financial assets. Journal of Economic Surveys. https://doi.org/10.1111/joes.12525
 
 Dasgupta, P. (2008). Discounting climate change. Journal of Risk and Uncertainty, 37(2–3), 141–169. https://doi.org/10.1007/s11166-008-9049-6
 
@@ -1015,6 +1045,8 @@ Chen, Y., & Whalley, A. (2012). Green Infrastructure: The Effects of Urban Rail 
 
 Cole, M. A., Elliott, R. J. R., & Shimamoto, K. (2005). Industrial characteristics, environmental regulations and air pollution: an analysis of the UK manufacturing sector. Journal of Environmental Economics and Management, 50(1), 121–143. https://doi.org/10.1016/j.jeem.2004.08.001
 
+Colmer, J., Voorheis, J., & Williams, B. (n.d.). Air Pollution and Economic Opportunity in the United States *.
+
 Covert, T., Greenstone, M., & Knittel, C. R. (2016). Will We Ever Stop Using Fossil Fuels? Journal of Economic Perspectives, 30(1), 117–138. https://doi.org/10.1257/jep.30.1.117
 
 Dasgupta, S., Laplante, B., & Mamingi, N. (2001). Pollution and Capital Markets in Developing Countries. Journal of Environmental Economics and Management, 42(3), 310–335. https://doi.org/10.1006/jeem.2000.1161
@@ -1039,6 +1071,8 @@ Gerlagh, R., & van der Zwaan, B. (2006). Options and Instruments for a Deep Cut 
 
 Gillingham, K., & Stock, J. H. (2018). The Cost of Reducing Greenhouse Gas Emissions. Journal of Economic Perspectives, 32(4), 53–72. https://doi.org/10.1257/jep.32.4.53
 
+Greenstone, M., Pande, R., Sudarshan, A., & Ryan, N. (2022). The Benefits and Costs of Emissions Trading: Experimental Evidence from a New Market for Industrial Particulate Emissions *.
+
 Gu, B., Ju, X., Chang, J., Ge, Y., & Vitousek, P. M. (2015). Integrated reactive nitrogen budgets and future trends in China. Proceedings of the National Academy of Sciences, 112(28), 8792–8797. https://doi.org/10.1073/pnas.1510211112
 
 Hanna, R., & Oliva, P. (2015). The effect of pollution on labor supply: Evidence from a natural experiment in Mexico City. Journal of Public Economics, 122, 68–79. https://doi.org/10.1016/j.jpubeco.2014.10.004
@@ -1062,6 +1096,8 @@ Levinson, A. (2009). Technology, International Trade, and Pollution from US Manu
 Levinson, A. (2010). Offshoring Pollution: Is the United States Increasingly Importing Polluting Goods? Review of Environmental Economics and Policy, 4(1), 63–83. https://doi.org/10.1093/reep/rep017
 
 Li, S., Liu, Y., Purevjav, A.-O., & Yang, L. (2019). Does subway expansion improve air quality? Journal of Environmental Economics and Management, 96, 213–235. https://doi.org/10.1016/j.jeem.2019.05.005
+
+Lilliestam, J., Patt, A., & Bersalli, G. (2022). On the quality of emission reductions: observed effects of carbon pricing on investments, innovation, and operational shifts. A response to van den Bergh and Savin (2021). Environmental and Resource Economics. https://doi.org/10.1007/s10640-022-00708-8
 
 Martínez-Zarzoso, I., Bengochea-Morancho, A., & Morales-Lage, R. (2007). The impact of population on CO2 emissions: evidence from European countries. Environmental and Resource Economics, 38(4), 497–512. https://doi.org/10.1007/s10640-007-9096-5
 
@@ -1208,6 +1244,8 @@ Copeland, B. R., & Taylor, M. S. (2005). Free trade and global warming: a trade 
 Damania, R., Fredriksson, P. G., & List, J. A. (2003). Trade liberalization, corruption, and environmental policy formation: theory and evidence. Journal of Environmental Economics and Management, 46(3), 490–512. https://doi.org/10.1016/S0095-0696(03)00025-1
 
 Davis, L. W., & Kahn, M. E. (2010). International Trade in Used Vehicles: The Environmental Consequences of NAFTA. American Economic Journal: Economic Policy, 2(4), 58–82. https://doi.org/10.1257/pol.2.4.58
+
+Felbermayr, G., Peterson, S., Wanner, J., Bourcieu, E., & Schmitz, J. (n.d.). Special External Author Edition STRUCTURED LITERATURE REVIEW AND MODELLING SUGGESTIONS ON THE IMPACT OF TRADE AND TRADE POLICY ON THE ENVIRONMENT AND THE CLIMATE.
 
 Frankel, J. A., & Rose, A. K. (2005). Is Trade Good or Bad for the Environment? Sorting Out the Causality. Review of Economics and Statistics, 87(1), 85–91. https://doi.org/10.1162/0034653053327577
 
