@@ -87,6 +87,8 @@ Cao, S., Zhong, B., Yue, H., Zeng, H., & Zeng, J. (2009). Development and testin
 
 Charpentier, A., & le Maux, B. (2014). Natural catastrophe insurance: How should the government intervene? Journal of Public Economics, 115, 1–17. https://doi.org/10.1016/j.jpubeco.2014.03.004
 
+Ciccarelli, M., & Marotta, F. (2021). Demand or Supply? An Empirical Exploration of the Effects of Climate Change on the Macroeconomy. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3943014
+
 Claudet, J., Bopp, L., Cheung, W. W. L., Devillers, R., Escobar-Briones, E., Haugan, P., Heymans, J. J., Masson-Delmotte, V., Matz-Lück, N., Miloslavich, P., Mullineaux, L., Visbeck, M., Watson, R., Zivian, A. M., Ansorge, I., Araujo, M., Aricò, S., Bailly, D., Barbière, J., … Gaill, F. (2020). A Roadmap for Using the UN Decade of Ocean Science for Sustainable Development in Support of Science, Policy, and Action. One Earth, 2(1), 34–42. https://doi.org/10.1016/j.oneear.2019.10.012
 
 Coady, D., Parry, I., Sears, L., & Shang, B. (2017). How Large Are Global Fossil Fuel Subsidies? World Development, 91, 11–27. https://doi.org/10.1016/j.worlddev.2016.10.004
@@ -102,6 +104,8 @@ Dechezleprêtre, A., & Sato, M. (2017). The Impacts of Environmental Regulations
 Dechezleprêtre, A., Fabre, A., Kruse, T., Planterose, B., Chico, A. S., & Stantcheva, S. (2022). Fighting Climate Change: International Attitudes Toward Climate Policies *.
 
 Dietz, S., & Venmans, F. (2019). Cumulative carbon emissions and economic policy: In search of general principles. Journal of Environmental Economics and Management, 96, 108–129. https://doi.org/10.1016/j.jeem.2019.04.003
+
+Dongyu, Q., Georgieva, K., Malpass, D., Beasely, D., & Okonjo-Iweala, N. (2022). Joint Statement by the Heads of the Food and Agriculture Organization, International Monetary Fund, World Bank Group, World Food Programme, and World Trade Organization on the Global Food Security Crisis.
 
 Easterly, W. (2009). How the Millennium Development Goals are Unfair to Africa. World Development, 37(1), 26–35. https://doi.org/10.1016/j.worlddev.2008.02.009
 
@@ -140,6 +144,8 @@ Kallbekken, S., & Westskog, H. (2005). Should Developing Countries Take on Bindi
 Kersting, J., Duscha, V., & Weitzel, M. (2017). Cooperation on Climate Change under Economic Linkages: How the Inclusion of Macroeconomic Effects Affects Stability of a Global Climate Coalition. The Energy Journal, 38(4). https://doi.org/10.5547/01956574.38.4.jker
 
 Klepper, G., & Peterson, S. (2006). Emissions Trading, CDM, JI, and More: The Climate Strategy of the EU. The Energy Journal, 27(2). https://doi.org/10.5547/ISSN0195-6574-EJ-Vol27-No2-1
+
+Köberle, A. C., Vandyck, T., Guivarch, C., & Rogelj, J. (2022). Guest post: Why estimates of the ‘cost’ of climate action are overly pessimistic. Carbon Brief - Clear on Climate .
 
 Kyle, P., Clarke, L., Rong, F., & Smith, S. J. (2010). Climate Policy and the Long-Term Evolution of the U.S. Buildings Sector. The Energy Journal, 31(2). https://doi.org/10.5547/ISSN0195-6574-EJ-Vol31-No2-6
 
@@ -493,6 +499,8 @@ Fischer, E. M., & Knutti, R. (2015). Anthropogenic contribution to global occurr
 
 Guiteras, R. (2008). The Impact of Climate Change on Indian Agriculture.
 
+Letta, M., Montalbano, P., & Pierre, G. (2022). Weather shocks, traders’ expectations, and food prices. American Journal of Agricultural Economics, 104(3), 1100–1119. https://doi.org/10.1111/ajae.12258
+
 Mora, C., Dousset, B., Caldwell, I. R., Powell, F. E., Geronimo, R. C., Bielecki, C. R., Counsell, C. W. W., Dietrich, B. S., Johnston, E. T., Louis, L. v., Lucas, M. P., McKenzie, M. M., Shea, A. G., Tseng, H., Giambelluca, T. W., Leon, L. R., Hawkins, E., & Trauernicht, C. (2017). Global risk of deadly heat. Nature Climate Change, 7(7), 501–506. https://doi.org/10.1038/nclimate3322
 
 Scheffer, M., Carpenter, S., Foley, J. A., Folke, C., & Walker, B. (2001). Catastrophic shifts in ecosystems. Nature, 413(6856), 591–596. https://doi.org/10.1038/35098000
@@ -697,6 +705,8 @@ Sharif, A., Baris-Tuzemen, O., Uzuner, G., Ozturk, I., & Sinha, A. (2020). Revis
 
 Söderholm, P., & Klaassen, G. (2007). Wind Power in Europe: A Simultaneous Innovation–Diffusion Model. Environmental and Resource Economics, 36(2), 163–190. https://doi.org/10.1007/s10640-006-9025-z
 
+Steckel, J. C., & Jakob, M. (2022). To end coal, adapt to regional realities. Nature, 607(7917), 29–31. https://doi.org/10.1038/d41586-022-01828-3
+
 Sun, H., Edziah, B. K., Sun, C., & Kporsu, A. K. (2019). Institutional quality, green innovation and energy efficiency. Energy Policy, 135, 111002. https://doi.org/10.1016/j.enpol.2019.111002
 
 Uddin, K., Dubarry, M., & Glick, M. B. (2018). The viability of vehicle-to-grid operations from a battery technology and policy perspective. Energy Policy, 113, 342–347. https://doi.org/10.1016/j.enpol.2017.11.015
@@ -788,6 +798,8 @@ Gollier, C. (2002). Discounting an uncertain future. Journal of Public Economics
 Gollier, C., & Weitzman, M. L. (2010). How should the distant future be discounted when discount rates are uncertain? Economics Letters, 107(3), 350–353. https://doi.org/10.1016/j.econlet.2010.03.001
 
 Hardisty, D. J., & Weber, E. U. (2009). Discounting future green: Money versus the environment. Journal of Experimental Psychology: General, 138(3), 329–340. https://doi.org/10.1037/a0016433
+
+Howden, W., Levin, R., Jacobsen, M., Boomhower, J., Carson, R., Graff Zivin, J., Shrader, J., & Lemoine, D. (2022). The Global Impacts of Climate Change on Risk Preferences.
 
 Keller, K., Bolker, B. M., & Bradford, D. F. (2004). Uncertain climate thresholds and optimal economic growth. Journal of Environmental Economics and Management, 48(1), 723–741. https://doi.org/10.1016/j.jeem.2003.10.003
 
@@ -928,6 +940,8 @@ Banzhaf, S., Ma, L., & Timmins, C. (2019). Environmental Justice: The Economics 
 Barreca, A. I. (2012). Climate change, humidity, and mortality in the United States. Journal of Environmental Economics and Management, 63(1), 19–34. https://doi.org/10.1016/j.jeem.2011.07.004
 
 Berki-Kiss, D., & Menrad, K. (2022). Ethical consumption: Influencing factors of consumer´s intention to purchase Fairtrade roses. Cleaner and Circular Bioeconomy, 2, 100008. https://doi.org/10.1016/j.clcb.2022.100008
+
+Blom, S., Ortiz-Bobea, A., & Hoddinott, J. (2022). Heat exposure and child nutrition: Evidence from West Africa. Journal of Environmental Economics and Management, 115, 102698. https://doi.org/10.1016/j.jeem.2022.102698
 
 Bouman, T., Verschoor, M., Albers, C. J., Böhm, G., Fisher, S. D., Poortinga, W., Whitmarsh, L., & Steg, L. (2020). When worry about climate change leads to climate action: How values, worry and personal responsibility relate to various climate actions. Global Environmental Change, 62, 102061. https://doi.org/10.1016/j.gloenvcha.2020.102061
 
