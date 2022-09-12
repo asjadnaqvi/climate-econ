@@ -1,3 +1,5 @@
-Submit your own papers and repositories here.
+You can pull request (PR) your own bibliographies here.
 
-DO NOT submit papers. Just the DOIs or .bib entries.
+DO NOT submit actual papers, PDFs, Word documents, links etc. 
+
+You can either send a list of DOIs in a .txt file, or paper entries in a .bib file.
