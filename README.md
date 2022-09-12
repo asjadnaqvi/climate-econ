@@ -1,10 +1,10 @@
 # Climate econ literature
 
-This repository is maintained by 
+This repository is maintained by: 
 
 [Asjad Naqvi](https://github.com/asjadnaqvi) 
 
-with support from 
+with support from: 
 
 *Stella Kaltenecker*, a 3rd year student at the [Vienna University of Economic and Business](https://www.wu.ac.at/) (Vienna, Austria) with specializations in economy, climate change and sustainability and in international marketing management.
 
