@@ -6,7 +6,7 @@ This repository is maintained by
 
 with support from 
 
-Stella Kaltenecker, a 3rd year student at the [Vienna University of Economic and Business](https://www.wu.ac.at/) (Vienna, Austria) with specializations in economy, climate change and sustainability and in international marketing management.
+*Stella Kaltenecker*, a 3rd year student at the [Vienna University of Economic and Business](https://www.wu.ac.at/) (Vienna, Austria) with specializations in economy, climate change and sustainability and in international marketing management.
 
 Topics are sorted below with broad thematic areas. This repository is still incompletely and it is contantly being updated and will eventually move to a decidated website.
 
