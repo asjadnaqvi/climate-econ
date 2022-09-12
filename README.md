@@ -8,7 +8,7 @@ with support from
 
 *Stella Kaltenecker*, a 3rd year student at the [Vienna University of Economic and Business](https://www.wu.ac.at/) (Vienna, Austria) with specializations in economy, climate change and sustainability and in international marketing management.
 
-Topics are sorted below with broad thematic areas. This repository is still incompletely and it is contantly being updated and will eventually move to a decidated website.
+Topics are sorted below under broad thematic areas. This repository is still incompletely. It is contantly being updated and will eventually move to a decidated website.
 
 If you would like to include your paper, or other papers, or your own bibliography collection, then PR in the [bibliography_submitted](/bibliography_submitted) folder please with a [.bib](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex) file. Alternatively, you can also submit an [Issue](https://github.com/asjadnaqvi/climate-econ/issues) with links to papers and resources.
 
